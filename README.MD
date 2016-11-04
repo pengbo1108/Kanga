@@ -92,7 +92,7 @@ To benchmark only a specific test suite, run
 
 ### Directory structure
     benchmarks: benchmark testing program for each node
-    config: sdfsdf
+    config: configration for Kanga lite framework
     constants: constant definition for Kanga lite framework
     examples: topology examples
     nodes: spout and functional nodes (algorithms)
